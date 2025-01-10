@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525574477747",
+    "project_id": "schoolmis-d436a",
+    "storage_bucket": "schoolmis-d436a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525574477747:android:0df2b533416de439499dc6",
+        "android_client_info": {
+          "package_name": "com.y.school_mis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAokbzZE5mlKFB1PMObXSzuPaut74W3OaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
